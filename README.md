@@ -1,12 +1,12 @@
 Here are some strange minecraft plugins!
 
-Item sprint -
+Item Sprint -
 When a player toggles sprint, a random item from current MC version is given to the player.
 
-Social distancing (COVID-19) -
+Social Distancing (COVID-19) -
 If a player is within 6 blocks (x,y,z) of another player, they both will explode.
 
-Sheep drop -
+Sheep Drop -
 If a player sheers a sheep instead of wool, it gives a random item.
 
 DropExplosions -
