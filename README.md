@@ -5,3 +5,7 @@ When a player toggles sprint, a random item from current MC version is given to 
 
 Social distancing -
 If a player is within 6 blocks (x,y,z) of another player, they both will explode.
+
+Sheep drop -
+If a player sheers a sheep instead of wool, it gives a random item.
+
