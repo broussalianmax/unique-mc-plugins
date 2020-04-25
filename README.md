@@ -1,11 +1,21 @@
-Here are some strange minecraft plugins!
+# Unique Minecraft Plugins
 
-Drop Explosions - When you drop an item, the item explodes the area quickly after. 
+Plugins, plugins and more plugins. I love making plugins.
 
-Item Sprint - When you toggle sprint, the game gives you a random item.
+## List of all plugins
 
-Kamikaze Creepers - Creepers now have learned to fly, good luck.
+[Drop Explosions](https://github.com/broussalianmax/unique-mc-plugins/tree/DropExplosions)  - When you drop an item, the item explodes the area quickly after. 
 
-Shear Items - When you shear a sheep, it gives you a random item.
+[Item Sprint](https://github.com/broussalianmax/unique-mc-plugins/tree/ItemSprint) - When you toggle sprint, the game gives you a random item.
 
-Social Distancing - When you get within 6 blocks of a player (X,Y,Z) You both explode.
+[Kamikaze Creepers](https://github.com/broussalianmax/unique-mc-plugins/tree/Kamikaze-Creepers) - Creepers now have learned to fly, good luck.
+
+[Shear Items](https://github.com/broussalianmax/unique-mc-plugins/tree/ShearItems) - When you shear a sheep, it gives you a random item.
+
+[Social Distancing](https://github.com/broussalianmax/unique-mc-plugins/tree/Social-distancing) - When you get within 6 blocks of a player (X,Y,Z) You both explode.
+
+
+
+
+#
+## Credits: Maxime Broussalian
