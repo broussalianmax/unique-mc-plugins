@@ -14,6 +14,7 @@ Plugins, plugins and more plugins. I love making plugins.
 
 [Social Distancing](https://github.com/broussalianmax/unique-mc-plugins/tree/Social-distancing) - When you get within 6 blocks of a player (X,Y,Z) You both explode.
 
+[Swap Blocks](https://github.com/broussalianmax/unique-mc-plugins/tree/SwapBlocks) - When you swap items, blocks change - this also happens when you crouch. 
 
 
 
