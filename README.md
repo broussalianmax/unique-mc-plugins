@@ -20,6 +20,7 @@ Plugins, plugins and more plugins. I love making plugins.
 
 [Enderman Overload](https://github.com/broussalianmax/unique-mc-plugins/tree/EndermanOverload) - The enderman really do not want you to play minecraft.
 
+[TeleHop](https://github.com/broussalianmax/unique-mc-plugins/tree/Telehop) - You teleport and hop, what else can I say?
 
 
 
