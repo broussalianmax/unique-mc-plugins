@@ -22,7 +22,7 @@ Plugins, plugins and more plugins. I love making plugins.
 
 [TeleHop](https://github.com/broussalianmax/unique-mc-plugins/tree/Telehop) - You teleport and hop, what else can I say?
 
-
+[Handgambler](https://github.com/broussalianmax/unique-mc-plugins/tree/Handgambler) - When you mine, you face your gambling addictions.
 
 
 ## Credits: Maxime Broussalian
