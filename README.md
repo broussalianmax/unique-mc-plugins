@@ -16,7 +16,7 @@ Plugins, plugins and more plugins. I love making plugins.
 
 [Swap Blocks](https://github.com/broussalianmax/unique-mc-plugins/tree/SwapBlocks) - When you swap items, blocks change - this also happens when you crouch. 
 
-[Thor](https://github.com/broussalianmax/unique-mc-plugins/tree/Thor) - You are thor but you cant really control when your powers are used.
+[Thor](https://github.com/broussalianmax/unique-mc-plugins/tree/Thor) - You are Thor but you cant really control when your powers are used.
 
 
 
